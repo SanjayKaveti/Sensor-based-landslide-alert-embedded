@@ -36,4 +36,4 @@ sensor-based-landslide-alert-embedded/
 │   ├── project_report.pdf
 │   └── presentation.pptx
 │
-└── LICENSE
+
